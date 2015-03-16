@@ -1,3 +1,87 @@
+2015 March 17
+myPage3.js
+
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ protractor conf.js
+Using the selenium server at http://localhost:4444/wd/hub
+[launcher] Running 1 instances of WebDriver
+Spec started
+Bernard Tomic eliminated from the Sydney International in straight sets by Gilles Muller - ABC News (Australian Broadcasting Corporation)
+
+  ABCNet page test
+    ✓ should be on correct page
+MAP: Sydney 2000
+33°51'47.2"S 151°12'15.5"E - Google Maps
+    ✓ show Map
+TOP STORIES
+    ✓ show Stories
+Christopher Pyne says he will 'never give up' on higher education overhaul - ABC News (Australian Broadcasting Corporation)
+Dolce and Gabbana accuse Elton John of being ignorant and hypocritical in row over IVF babies - ABC News (Australian Broadcasting Corporation)
+    ✓ all links have hrefs
+
+Executed 4 of 4 specs SUCCESS in 17 secs.
+[launcher] 0 instance(s) of WebDriver still running
+[launcher] firefox #1 passed
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ protractor conf.js
+Using the selenium server at http://localhost:4444/wd/hub
+[launcher] Running 1 instances of WebDriver
+Spec started
+Bernard Tomic eliminated from the Sydney International in straight sets by Gilles Muller - ABC News (Australian Broadcasting Corporation)
+
+  ABCNet page test
+    ✓ should be on correct page
+MAP: Sydney 2000
+33°51'47.2"S 151°12'15.5"E - Google Maps
+    ✓ show Map
+TOP STORIES
+    ✓ show Stories
+Christopher Pyne says he will 'never give up' on higher education overhaul - ABC News (Australian Broadcasting Corporation)
+Christopher Pyne says he will 'never give up' on higher education overhaul - ABC News (Australian Broadcasting Corporation)
+Linc Energy allegedly failed to report series of dangerous gas leaks at Chinchilla plant, court documents reveal - ABC News (Australian Broadcasting Corporation)
+Cyclone Pam: 24 confirmed dead in Vanuatu with fears for many more, president pleads for help to rebuild - ABC News (Australian Broadcasting Corporation)
+Tony Abbott changed submarine tender policy overnight when faced with leadership spill - ABC News (Australian Broadcasting Corporation)
+US tycoon Robert Durst charged over murders after making 'chilling' TV confession - ABC News (Australian Broadcasting Corporation)
+Facebook clarifies 'community standards' on terrorism, bullying, nudity and real names - ABC News (Australian Broadcasting Corporation)
+Elderly woman bashed in Melbourne home by assailants pretending to be council workers: police - ABC News (Australian Broadcasting Corporation)
+Dolce and Gabbana accuse Elton John of being ignorant and hypocritical in row over IVF babies - ABC News (Australian Broadcasting Corporation)
+Islamic scholars in Indonesia push for death penalty for sex abuse and gay and lesbian 'crimes' - ABC News (Australian Broadcasting Corporation)
+Metadata retention: Crossbench senators, journalists' union slam Coalition, Labor deal to protect sources - ABC News (Australian Broadcasting Corporation)
+Defence lawyer for Nigerian child bride 'murderer' Wasila Tasi'u calls for charges to be dropped - ABC News (Australian Broadcasting Corporation)
+Dolce and Gabbana accuse Elton John of being ignorant and hypocritical in row over IVF babies - ABC News (Australian Broadcasting Corporation)
+    ✓ all links have hrefs
+
+Executed 4 of 4 specs SUCCESS in 50 secs.
+[launcher] 0 instance(s) of WebDriver still running
+[launcher] firefox #1 passed
+ 
+
+
+2015 March 17
+myPage2.js
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ protractor conf.js
+Using the selenium server at http://localhost:4444/wd/hub
+[launcher] Running 1 instances of WebDriver
+Spec started
+Bernard Tomic eliminated from the Sydney International in straight sets by Gilles Muller - ABC News (Australian Broadcasting Corporation)
+
+  ABCNet page test
+    ✓ should be on correct page
+MAP: Sydney 2000
+33°51'47.2"S 151°12'15.5"E - Google Maps
+    ✓ show Map
+TOP STORIES
+    ✓ show Stories
+Christopher Pyne says he will 'never give up' on higher education overhaul - ABC News (Australian Broadcasting Corporation)
+Christopher Pyne says he will 'never give up' on higher education overhaul - ABC News (Australian Broadcasting Corporation)
+Dolce and Gabbana accuse Elton John of being ignorant and hypocritical in row over IVF babies - ABC News (Australian Broadcasting Corporation)
+    ✓ all a links have hrefs
+
+Executed 4 of 4 specs SUCCESS in 21 secs.
+[launcher] 0 instance(s) of WebDriver still running
+[launcher] firefox #1 passed
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ 
+
+2015 March 16
+
 online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ protractor conf.js
 
  
