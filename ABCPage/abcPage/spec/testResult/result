@@ -1,0 +1,42 @@
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ protractor conf.js
+
+ 
+Using the selenium server at http://localhost:4444/wd/hub
+[launcher] Running 1 instances of WebDriver
+Bernard Tomic eliminated from the Sydney International in straight sets by Gilles Muller - ABC News (Australian Broadcasting Corporation)
+.MAP: Sydney 2000
+.TOP STORIES
+.Bernard Tomic eliminated from the Sydney International in straight sets by Gilles Muller - ABC News (Australian Broadcasting Corporation)
+
+.Government shelves $1.9 billion saving in education package, pushes ahead with university deregulation - ABC News (Australian Broadcasting Corporation)
+
+Government shelves $1.9 billion saving in education package, pushes ahead with university deregulation - ABC News (Australian Broadcasting Corporation)
+
+Dockers' Ryan Crowley provisionally suspended after testing positive to banned substance - ABC News (Australian Broadcasting Corporation)
+.
+
+Finished in 19.226 seconds
+5 tests, 4 assertions, 0 failures
+
+[launcher] 0 instance(s) of WebDriver still running
+[launcher] firefox #1 passed
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ myelement = browser.driver.findElement(By.xpath('//div[@id="main_content"]/div/div/div[2]/div/div/ul/li/a'));
+bash: syntax error near unexpected token `('
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$         mylink =myelement.getAttribute('href');
+bash: syntax error near unexpected token `('
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$         if ( !mylink.toBeNull) {
+bash: !mylink.toBeNull: event not found
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$              browser.driver.get(mylink);
+bash: syntax error near unexpected token `mylink'
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$              browser.driver.getTitle().then(function(title) {
+bash: syntax error near unexpected token `.then'
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$              console.log(title);
+bash: syntax error near unexpected token `title'
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$              browser.driver.get(baseUrl+"/news/2015-01-15/tomic-out-of-sydney-international/6020172?WT.ac=statenews_nsw");
+bash: syntax error near unexpected token `baseUrl+"/news/2015-01-15/tomic-out-of-sydney-international/6020172?WT.ac=statenews_nsw"'
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$             });
+bash: syntax error near unexpected token `}'
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$          }
+bash: syntax error near unexpected token `}'
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ ^C
+online@OnlineTax-L1:~/mochatest/ABCPage/abcPage/spec$ 
